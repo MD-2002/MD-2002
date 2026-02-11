@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi, I'm Marcos:
 🔭 I’m currently working on expanding my knowledge in artificial intelligence, embedded systems, and applied robotics projects.<br>👯 I’m looking to collaborate on practical AI, IoT, and automation-based solutions that solve real-world problems.<br>🤝 I’m looking for help with advanced robotics systems integration and large-scale AI deployment strategies.<br>🌱 I’m currently learning advanced AI concepts, UX design principles, and cloud-based system architectures.<br>💬 Ask me about embedded systems, IoT development, sensor integration, and structured technical documentation.<br>⚡ Fun fact: I enjoy building practical technology solutions that combine hardware and software into working systems.
 
 
